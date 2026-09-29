@@ -1,4 +1,4 @@
-- Website: [hubstafftalent.net/profiles/lawrance-babu](https://hubstafftalent.net/profiles/lawrance-babu)# Custom Reset Password Page
+# Custom Reset Password Page
 
 A WordPress plugin that replaces the default `wp-login.php` password reset screen with a styled, on-brand front-end page, complete with a strength meter and secure password suggestions.
 
@@ -134,5 +134,5 @@ GPL-2.0-or-later. See [LICENSE](LICENSE).
 **Lawrance Babu Gain**, Senior PHP / WordPress / Laravel Developer
 
 - GitHub: [@lawrancebabu](https://github.com/lawrancebabu)
-- Website: [topshelfpeptide.com](https://topshelfpeptide.com)
+- Website: [hubstafftalent.net/profiles/lawrance-babu](https://hubstafftalent.net/profiles/lawrance-babu)
 - Email: [lawrance1020@gmail.com](mailto:lawrance1020@gmail.com)
